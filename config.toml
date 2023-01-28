@@ -1,0 +1,12 @@
+baseURL = 'https://superbro.io/'
+languageCode = 'en-gb'
+title = 'Superbros site'
+theme = 'ananke'
+publishDir = "docs"
+
+
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/suuperbro"
+
