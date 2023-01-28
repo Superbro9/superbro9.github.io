@@ -1,7 +1,7 @@
 ---
 title: "Blogs"
 date: 2022-12-18T20:07:58Z
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+featured_image: '/luxembourgSquare.jpg'
 menu:
   main:
     weight: 1

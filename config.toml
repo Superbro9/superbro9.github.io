@@ -7,6 +7,6 @@ publishDir = "docs"
 
 
 [[params.ananke_socials]]
-name = "twitter"
+name = "github"
 url = "https://twitter.com/suuperbro"
 
